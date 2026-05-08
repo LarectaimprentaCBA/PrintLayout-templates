@@ -14,6 +14,13 @@
       "hash": "aacbe77409a0fac8bed2506275f5d7be312114bbfd651348327cde8cf77713a2",
       "updatedAt": "2026-05-08T18:05:08.923Z",
       "file": "templates/tpl_mox82pb7_zpkoc1.json"
+    },
+    {
+      "id": "tpl_mox9xs5t_osrvmg",
+      "name": "Fotos 10x15 A4",
+      "hash": "da42b96a91272a659ed006d123bcd737c5fcf58474825d8249bfb11ad07f1228",
+      "updatedAt": "2026-05-08T19:01:56.885Z",
+      "file": "templates/tpl_mox9xs5t_osrvmg.json"
     }
   ]
 }
