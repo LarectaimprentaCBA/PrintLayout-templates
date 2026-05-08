@@ -21,6 +21,13 @@
       "hash": "da42b96a91272a659ed006d123bcd737c5fcf58474825d8249bfb11ad07f1228",
       "updatedAt": "2026-05-08T19:01:56.885Z",
       "file": "templates/tpl_mox9xs5t_osrvmg.json"
+    },
+    {
+      "id": "tpl_moxbuik6_j5c5y3",
+      "name": "Fotos 13x18 A4",
+      "hash": "842c25192502024bd907c52a7820876e0bde9b34a8d2e8f6759fb842918c07cb",
+      "updatedAt": "2026-05-08T21:28:03.246Z",
+      "file": "templates/tpl_moxbuik6_j5c5y3.json"
     }
   ]
 }
