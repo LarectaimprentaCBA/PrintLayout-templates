@@ -42,6 +42,13 @@
       "hash": "e318026b8a4c70f8c8d309cf8450126874a728ecf3451e2376968b0024d02b67",
       "updatedAt": "2026-05-12T20:15:38.789Z",
       "file": "templates/tpl_mp32lfu4_cx7rdu.json"
+    },
+    {
+      "id": "tpl_mp32nlh3_gc5u92",
+      "name": "Fotos 6x8",
+      "hash": "c0a1b342b60a335b6abe612773e0ca25d4f6675d94a7c27565e5e54d6f6c949e",
+      "updatedAt": "2026-05-12T20:17:26.681Z",
+      "file": "templates/tpl_mp32nlh3_gc5u92.json"
     }
   ]
 }
