@@ -56,6 +56,13 @@
       "hash": "60ca20a30d2c60ee53980c13b6266245344b7f9424f88c9e51f22895bce1244a",
       "updatedAt": "2026-05-13T14:19:52.311Z",
       "file": "templates/tpl_mp33tmwz_5tzh4c.json"
+    },
+    {
+      "id": "tpl_dyn_mpbppfk7",
+      "name": "Circulos 2cm",
+      "hash": "70cded355ddc59ea9040b3705ca66f421bed543f3c8f70839fb651daa844f07f",
+      "updatedAt": "2026-05-18T21:51:42.551Z",
+      "file": "templates/tpl_dyn_mpbppfk7.json"
     }
   ]
 }
