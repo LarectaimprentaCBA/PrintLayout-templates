@@ -70,6 +70,13 @@
       "hash": "bc73e284a3e336f3cf36f1b6bdcd7089b639ab7314c9ee750d9a395bdb817e30",
       "updatedAt": "2026-05-18T23:13:28.497Z",
       "file": "templates/tpl_mpbtjx15_wijrh3.json"
+    },
+    {
+      "id": "tpl_dyn_mpbu0klu",
+      "name": "Cuadrado 5x5",
+      "hash": "84b6575c921423662f20b78a98d593d8ca6dc02a7b3f80ac24b56634ef943cac",
+      "updatedAt": "2026-05-18T23:29:29.233Z",
+      "file": "templates/tpl_dyn_mpbu0klu.json"
     }
   ]
 }
