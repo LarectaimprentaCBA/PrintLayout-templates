@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "presets": [
+    {
+      "id": "pp_mpbyrput_uez3zp",
+      "label": "Super A3 Autoadhesivo",
+      "w": 325,
+      "h": 500,
+      "hash": "bf2de4f5d3642c43695048456b41c0df6660e8c7d1bc9e6db03f5abeeb0cb46a",
+      "updatedAt": "2026-05-19T01:38:32.926Z"
+    },
+    {
+      "id": "pp_mpbysh8g_ucu8ag",
+      "label": "Super A3",
+      "w": 325,
+      "h": 475,
+      "hash": "d7738553a525534b35288054d2c9ce3bc16e85652714e15ca83518009dd0dbb6",
+      "updatedAt": "2026-05-19T01:38:52.096Z"
+    }
+  ]
+}
