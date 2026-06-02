@@ -98,6 +98,13 @@
       "hash": "3456a99717fad537e9b9edc71216d311ab72c5f9a02d9de385541effe85ccfdd",
       "updatedAt": "2026-05-22T17:48:48.630Z",
       "file": "templates/tpl_mph704qv_tgkw2q.json"
+    },
+    {
+      "id": "tpl_mpwx4rt8_pyqvyk",
+      "name": "Polaroid 8x5",
+      "hash": "6d799de040b7bbfdd2953e0c15e9c3aae944d915a2bf41695ead7c49036a5e12",
+      "updatedAt": "2026-06-02T17:35:50.188Z",
+      "file": "templates/tpl_mpwx4rt8_pyqvyk.json"
     }
   ]
 }
