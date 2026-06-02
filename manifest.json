@@ -112,6 +112,13 @@
       "hash": "9060fb87434ed098c0caa18eb101168d584f8d390fd57bbb382369727823fe49",
       "updatedAt": "2026-06-02T19:02:09.096Z",
       "file": "templates/tpl_mpx069j7_sqq4ta.json"
+    },
+    {
+      "id": "tpl_mpx0ivye_w9hjch",
+      "name": "Polaroid 9,5x9,5",
+      "hash": "ef911552b1b5cb12cf04b491e8b69cdf982176a88c0495239d1abff204ce781f",
+      "updatedAt": "2026-06-02T19:10:46.740Z",
+      "file": "templates/tpl_mpx0ivye_w9hjch.json"
     }
   ]
 }
