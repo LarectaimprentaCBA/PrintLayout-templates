@@ -119,6 +119,13 @@
       "hash": "ef911552b1b5cb12cf04b491e8b69cdf982176a88c0495239d1abff204ce781f",
       "updatedAt": "2026-06-02T19:10:46.740Z",
       "file": "templates/tpl_mpx0ivye_w9hjch.json"
+    },
+    {
+      "id": "tpl_mr2gzkty_ujbbbr",
+      "name": "Plantilla dobble caja",
+      "hash": "7b5eebd27ad3894796fd34ca254a530b7b604476ab66c36fd8cc9ab9b6761884",
+      "updatedAt": "2026-07-01T19:33:46.173Z",
+      "file": "templates/tpl_mr2gzkty_ujbbbr.json"
     }
   ]
 }
