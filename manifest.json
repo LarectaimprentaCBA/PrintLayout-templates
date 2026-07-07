@@ -126,6 +126,13 @@
       "hash": "7b5eebd27ad3894796fd34ca254a530b7b604476ab66c36fd8cc9ab9b6761884",
       "updatedAt": "2026-07-01T19:33:46.173Z",
       "file": "templates/tpl_mr2gzkty_ujbbbr.json"
+    },
+    {
+      "id": "tpl_mrb0l32z_8na4tq",
+      "name": "folletos 10x15",
+      "hash": "5941342a480aca0c9b3d172c9c448b935f32114aefaf061c95130f772b98af87",
+      "updatedAt": "2026-07-07T19:01:11.513Z",
+      "file": "templates/tpl_mrb0l32z_8na4tq.json"
     }
   ]
 }
