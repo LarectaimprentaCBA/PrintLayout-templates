@@ -1176,6 +1176,9 @@
   "doubleSided": false,
   "singlePage": true,
   "createdAt": "2026-05-18T23:29:15.223Z",
-  "updatedAt": "2026-05-18T23:29:24.129Z",
-  "categoria": "cuadrados"
+  "updatedAt": "2026-07-21T15:00:40.124Z",
+  "categoria": "cuadrados",
+  "sharedAt": "2026-05-18T23:29:29.233Z",
+  "sharedHash": "84b6575c921423662f20b78a98d593d8ca6dc02a7b3f80ac24b56634ef943cac",
+  "cutId": "260721120037"
 }
