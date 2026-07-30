@@ -737,5 +737,13 @@
   "doubleSided": true,
   "id": "tpl_mouer7dv_ohjpf3",
   "createdAt": "2026-05-06T18:45:55.362Z",
-  "updatedAt": "2026-05-06T18:45:55.362Z"
+  "updatedAt": "2026-07-30T21:38:35.336Z",
+  "sharedAt": "2026-05-08T17:08:31.993Z",
+  "sharedHash": "ec805d295e31b6bcbec4d452c0421cd6f9354d81538627b3de3613dbde702b16",
+  "safetyMm": 2,
+  "customPaper": {
+    "widthMm": 322,
+    "heightMm": 472
+  },
+  "cutId": "tarjetas-doble-faz"
 }
