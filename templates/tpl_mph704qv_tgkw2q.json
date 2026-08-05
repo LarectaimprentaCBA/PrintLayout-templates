@@ -363,5 +363,14 @@
   "categoria": "Polaroid",
   "id": "tpl_mph704qv_tgkw2q",
   "createdAt": "2026-05-22T17:27:36.967Z",
-  "updatedAt": "2026-05-22T17:48:45.735Z"
+  "updatedAt": "2026-08-05T18:41:15.932Z",
+  "sharedAt": "2026-05-22T17:48:48.630Z",
+  "sharedHash": "3456a99717fad537e9b9edc71216d311ab72c5f9a02d9de385541effe85ccfdd",
+  "oficial": true,
+  "catalogoId": "polaroid-9-5x9x5",
+  "customPaper": {
+    "widthMm": 322,
+    "heightMm": 472
+  },
+  "cutId": "polaroid-9-5x9x5"
 }
