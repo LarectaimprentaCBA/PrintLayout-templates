@@ -263,5 +263,12 @@
   "categoria": "folletos",
   "id": "tpl_mrb0l32z_8na4tq",
   "createdAt": "2026-07-07T19:00:44.891Z",
-  "updatedAt": "2026-07-07T19:01:09.610Z"
+  "updatedAt": "2026-08-06T19:39:05.631Z",
+  "sharedAt": "2026-07-07T19:01:11.513Z",
+  "sharedHash": "5941342a480aca0c9b3d172c9c448b935f32114aefaf061c95130f772b98af87",
+  "customPaper": {
+    "widthMm": 322,
+    "heightMm": 472
+  },
+  "cutId": "folletos-10x15"
 }
