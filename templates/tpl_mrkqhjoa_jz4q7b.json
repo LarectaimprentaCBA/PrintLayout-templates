@@ -246,7 +246,15 @@
   "singlePage": false,
   "id": "tpl_mrkqhjoa_jz4q7b",
   "createdAt": "2026-07-14T14:15:45.370Z",
-  "updatedAt": "2026-07-14T14:42:27.354Z",
+  "updatedAt": "2026-08-11T21:55:41.492Z",
   "sharedAt": "2026-07-14T14:42:00.799Z",
-  "sharedHash": "2b45848ba6d2de77b2240ec6661e076bf7ccdd5e49e2950e72135d5f7b95f6e5"
+  "sharedHash": "2b45848ba6d2de77b2240ec6661e076bf7ccdd5e49e2950e72135d5f7b95f6e5",
+  "categoria": "Polaroid",
+  "oficial": true,
+  "catalogoId": "fotos-square-10x14",
+  "customPaper": {
+    "widthMm": 322,
+    "heightMm": 472
+  },
+  "cutId": "fotos-square-10x14"
 }
