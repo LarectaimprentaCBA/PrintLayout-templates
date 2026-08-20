@@ -740,5 +740,14 @@
   "categoria": "Polaroid",
   "id": "tpl_mpwx4rt8_pyqvyk",
   "createdAt": "2026-06-02T17:35:36.140Z",
-  "updatedAt": "2026-06-02T17:35:47.572Z"
+  "updatedAt": "2026-08-20T19:10:19.589Z",
+  "sharedAt": "2026-06-02T17:35:50.188Z",
+  "sharedHash": "6d799de040b7bbfdd2953e0c15e9c3aae944d915a2bf41695ead7c49036a5e12",
+  "oficial": true,
+  "catalogoId": "polaroid-8x5",
+  "customPaper": {
+    "widthMm": 322,
+    "heightMm": 472
+  },
+  "cutId": "polaroid-8x5"
 }
