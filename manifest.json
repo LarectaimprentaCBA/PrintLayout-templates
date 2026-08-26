@@ -154,6 +154,13 @@
       "hash": "762cd7ba6a31a789c5c573c81baf3bbfa7f1bacd61d0d9959168a3ece2c5f0ec",
       "updatedAt": "2026-08-14T15:13:05.046Z",
       "file": "templates/tpl_mst36kw1_x5ccy4.json"
+    },
+    {
+      "id": "tpl_mtaejgor_7ebjse",
+      "name": "fotos 10x15 super a3",
+      "hash": "0f2bc557e196b6eadd4ff4ad814452978b4cd23a39710ab68c3490655f3cd3c0",
+      "updatedAt": "2026-08-26T18:03:20.883Z",
+      "file": "templates/tpl_mtaejgor_7ebjse.json"
     }
   ]
 }
