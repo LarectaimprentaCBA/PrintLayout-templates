@@ -275,8 +275,10 @@
   "singlePage": false,
   "id": "tpl_mp32nlh3_gc5u92",
   "createdAt": "2026-05-12T20:17:07.191Z",
-  "updatedAt": "2026-05-15T21:04:30.746Z",
+  "updatedAt": "2026-06-10T16:56:46.705Z",
   "sharedAt": "2026-05-12T20:17:26.681Z",
   "sharedHash": "c0a1b342b60a335b6abe612773e0ca25d4f6675d94a7c27565e5e54d6f6c949e",
-  "categoria": "fotos"
+  "categoria": "Fotos",
+  "oficial": true,
+  "catalogoId": "fotos-6x8"
 }
