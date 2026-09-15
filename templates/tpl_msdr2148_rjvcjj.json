@@ -17784,9 +17784,11 @@
     "rotateMode": "auto"
   },
   "cutId": "circulos-4cm",
-  "categoria": "circulos|",
+  "categoria": "circulos",
   "id": "tpl_msdr2148_rjvcjj",
   "createdAt": "2026-08-03T21:37:00.200Z",
-  "updatedAt": "2026-08-03T21:37:01.588Z",
-  "cutIdManual": false
+  "updatedAt": "2026-08-27T18:34:23.452Z",
+  "cutIdManual": false,
+  "sharedAt": "2026-08-03T21:37:03.692Z",
+  "sharedHash": "65b17c679920acf559d9d864f3fe1659f2f990f810ffd7fe0e2a5f21e82c2ee8"
 }
