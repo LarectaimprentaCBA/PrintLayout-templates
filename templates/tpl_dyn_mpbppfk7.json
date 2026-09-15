@@ -64575,8 +64575,10 @@
   "cutShape": "circle",
   "doubleSided": false,
   "singlePage": true,
-  "categoria": "circulos|",
+  "categoria": "circulos",
   "createdAt": "2026-05-18T21:24:48.627Z",
-  "updatedAt": "2026-05-18T21:25:24.547Z",
-  "safetyMm": 1
+  "updatedAt": "2026-08-27T18:34:22.966Z",
+  "safetyMm": 1,
+  "sharedAt": "2026-05-18T21:51:42.551Z",
+  "sharedHash": "70cded355ddc59ea9040b3705ca66f421bed543f3c8f70839fb651daa844f07f"
 }
