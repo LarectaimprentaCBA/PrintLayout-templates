@@ -33924,9 +33924,11 @@
     "rotateMode": "auto"
   },
   "cutId": "circulos-3cm",
-  "categoria": "circulos|",
+  "categoria": "circulos",
   "id": "tpl_mst36kw1_x5ccy4",
   "createdAt": "2026-08-14T15:13:00.481Z",
-  "updatedAt": "2026-08-14T15:13:02.475Z",
-  "cutIdManual": false
+  "updatedAt": "2026-08-27T18:34:23.574Z",
+  "cutIdManual": false,
+  "sharedAt": "2026-08-14T15:13:05.046Z",
+  "sharedHash": "762cd7ba6a31a789c5c573c81baf3bbfa7f1bacd61d0d9959168a3ece2c5f0ec"
 }
