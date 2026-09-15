@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "calibraciones": [
+    {
+      "id": "cal-imp-mu2vsbip",
+      "correctIp": "192.168.100.198",
+      "hash": "105a8b2f6d932c27495310cdb3fe74f5419e0514bf7815955c075884f63533c2",
+      "updatedAt": "2026-09-15T16:23:28.223Z",
+      "active": true,
+      "file": "calibraciones/cal-imp-mu2vsbip.json"
+    }
+  ]
+}
