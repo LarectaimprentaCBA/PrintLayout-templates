@@ -10790,9 +10790,11 @@
     "rotateMode": "auto"
   },
   "cutId": "circulo-5cm",
-  "categoria": "circulos|",
+  "categoria": "circulos",
   "id": "tpl_mrz2tb1q_ajrbi7",
   "createdAt": "2026-07-24T15:09:35.918Z",
-  "updatedAt": "2026-07-24T15:09:37.804Z",
-  "cutIdManual": false
+  "updatedAt": "2026-08-27T18:34:23.227Z",
+  "cutIdManual": false,
+  "sharedAt": "2026-07-24T15:09:40.086Z",
+  "sharedHash": "662a9fa1a4e2ecb3caabfccf633f205515786223d7f8d4ae22bb58e7c176df65"
 }
