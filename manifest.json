@@ -161,6 +161,13 @@
       "hash": "0f2bc557e196b6eadd4ff4ad814452978b4cd23a39710ab68c3490655f3cd3c0",
       "updatedAt": "2026-08-26T18:03:20.883Z",
       "file": "templates/tpl_mtaejgor_7ebjse.json"
+    },
+    {
+      "id": "tpl_mu73rpmb_zs8t21",
+      "name": "Estampitas comunion",
+      "hash": "e2362f3bb01dce1e39e77c730b47bdf1bc66350aa3e03e91a1b61cfb4a53a706",
+      "updatedAt": "2026-09-18T16:53:22.085Z",
+      "file": "templates/tpl_mu73rpmb_zs8t21.json"
     }
   ]
 }
