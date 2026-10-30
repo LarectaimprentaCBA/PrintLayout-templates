@@ -8,6 +8,14 @@
       "updatedAt": "2026-09-15T16:23:28.223Z",
       "active": true,
       "file": "calibraciones/cal-imp-mu2vsbip.json"
+    },
+    {
+      "id": "cal-57570-mvvdsh3u",
+      "correctIp": "192.168.100.189",
+      "hash": "6ef5d06fd733ae524f257ef54d98ee097b93cda810d5fecc4280e2f5a311e94c",
+      "updatedAt": "2026-10-30T19:44:37.561Z",
+      "active": true,
+      "file": "calibraciones/cal-57570-mvvdsh3u.json"
     }
   ]
 }
