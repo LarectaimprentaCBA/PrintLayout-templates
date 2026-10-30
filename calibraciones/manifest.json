@@ -16,6 +16,14 @@
       "updatedAt": "2026-10-30T19:44:37.561Z",
       "active": true,
       "file": "calibraciones/cal-57570-mvvdsh3u.json"
+    },
+    {
+      "id": "cal-41521-mvr6oe7e",
+      "correctIp": "192.168.100.106",
+      "hash": "6f93193319881d357aa267ec967ea2e4294810204ec104bb1d17790013c3d3e9",
+      "updatedAt": "2026-10-27T21:14:25.154Z",
+      "active": true,
+      "file": "calibraciones/cal-41521-mvr6oe7e.json"
     }
   ]
 }
