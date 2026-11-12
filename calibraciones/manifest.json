@@ -24,6 +24,14 @@
       "updatedAt": "2026-11-11T16:26:18.301Z",
       "active": true,
       "file": "calibraciones/cal-41521-mvr6oe7e.json"
+    },
+    {
+      "id": "cal-9485-mvr5mfkf",
+      "correctIp": "192.168.100.106",
+      "hash": "420d313568a2f5cb6ebc0144a91129e933f42018b87af26c4c13b59d4e4c7e79",
+      "updatedAt": "2026-11-11T16:04:28.582Z",
+      "active": false,
+      "file": "calibraciones/cal-9485-mvr5mfkf.json"
     }
   ]
 }
