@@ -14747,12 +14747,12 @@
     252.20060999999998
   ],
   "results": null,
-  "active": true,
+  "active": false,
   "origen": "importada",
   "archivoOrigen": {
     "name": "correccion-198.cube",
     "date": "2026-09-14T21:33:47.911Z"
   },
   "createdAt": "2026-09-15T16:23:21.942Z",
-  "updatedAt": "2026-11-18T21:25:00.936Z"
+  "updatedAt": "2026-11-19T13:58:33.110Z"
 }
